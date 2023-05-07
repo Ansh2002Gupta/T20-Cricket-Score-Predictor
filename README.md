@@ -1,5 +1,6 @@
 # T20-Cricket-Score-Predictor
-A ML powered web facilitated application that can predict the score of a T20 match after the end of 20th over for the batting team. You just need to provide certain inputs and the magic happens!
+A **ML powered web facilitated application** that can predict the score of a **T20 match after the end of 20th over** for the batting team. You just need to provide certain inputs and the magic happens!
+<hr>
 
 ### Features
 * `Interface`: The predictor is web deployed **streamlit** powered ML application, with a simple user interface. 
@@ -12,6 +13,13 @@ A ML powered web facilitated application that can predict the score of a T20 mat
   > Wickets left <br>
   > Runs scored in last 5 overs <br>
 * `Time Complexity`: Outputs are given with a lightning speed.
+* `Advanced ML Libraries`: The training and testing of the model is done through advanced ML libraries (you might need to install them using **pip** or **conda**), these are:
+  > XGBOOST <br>
+  > SKLEARN <br>
+  > STREAMLIT <br>
+  > NUMPY <br>
+  > PANDAS <br>
+  > PICKLE <br>
 
 ### Background Details
 * The dataset that is used for model training and testing purposes can be downloaded from kaggle, named [Cricsheet Dataset]([www.google.com](https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket))
