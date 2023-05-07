@@ -2,6 +2,16 @@
 A **ML powered web facilitated application** that can predict the score of a **T20 match after the end of 20th over** for the batting team. You just need to provide certain inputs and the magic happens!
 <hr>
 
+### If you quickly wanna try my model, do this:
+* Search for `app.py` in the repository.
+* See on the right corner and find `raw` button, open the raw version of app.py.
+* Copy the `url` from the address bar.
+* Open an IDE, prefer `VSCode`.
+* Install `streamlit` using `pip` or `conda`.
+* Open the terminal of VSCode and type `streamlit run <url you had copied>`.
+* Wait for some time, till a new browser window opens.
+* Test the application and Enjoy!!
+
 ### Features
 * `Interface`: The predictor is web deployed **streamlit** powered ML application, with a simple user interface. 
 * `Accuracy`: The model has an accuracy of **93%**. More the overs passed better are the predictions.
