@@ -40,6 +40,7 @@ A **ML powered web facilitated application** that can predict the score of a **T
 * Open `app.py` in a IDE, I used *CLion* :), 'yes' you can use *VScode* xD
 * You might need to install some of the python packages like, streamlit, pandas, numpy etc. This can simply be done through terminal using `pip` command.
 * Finally open the terminal -> Navigate to the current directory -> type `streamlit run app.py` -> wait a little -> a browser window opens up like this.
+![2023-05-07-20-11-15](https://user-images.githubusercontent.com/84438495/236684514-ffa5eb5e-4c75-48f5-a64d-7a5e704961e4.png)
 
 ---
 Made By: <br>
